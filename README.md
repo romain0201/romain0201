@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Hello! I'm Romain, a 24-year-old web development professional with a Master’s in Web Engineering from ESGI. I work at Net.Com and am also founding White Bear Digital, a company specializing in web strategies. My passions include swimming, DIY projects, beekeeping, general knowledge, and IT.
+Hello! I’m Romain, a 24-year-old web development professional with a Master’s degree in Web Engineering from ESGI. I work at Net.Com and am also co-founding Sicomia, an agency specializing in e-commerce solutions for artisans, with integrated artificial intelligence. My passions include swimming, DIY projects, beekeeping, general knowledge, and IT.
 
 * 🌍  I'm based in Sens, Yonne, France.
-* ✉️  You can contact me at [romain.lethumier@gmail.com](mailto:romain.lethumier@gmail.com)
-* 🚀  I'm currently working on [White Bear Digital](http://https://white-bear.fr/ )
+* ✉️  You can contact me at [romain.lethumier@gmail.com](mailto:romain.lethumier@gmail.com) or [romain@sicomia.com](mailto:romain@sicomia.com)
+* 🚀  I'm currently working on [Sicomia](http://https://sicomia.com/ )
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
